@@ -1,0 +1,242 @@
+﻿SKU_CODE,date,sale_data
+shirt,2021-01-20,50
+shirt,2021-01-21,40
+shirt,2021-02-10,30
+shirt,2021-02-23,56
+shirt,2021-03-24,78
+shirt,2021-03-25,23
+shirt,2021-04-26,46
+shirt,2021-04-12,87
+shirt,2021-05-28,90
+shirt,2021-05-29,100
+shirt,2021-06-30,65
+shirt,2021-06-30,45
+shirt,2021-07-01,87
+shirt,2021-07-02,66
+shirt,2021-08-03,90
+shirt,2021-08-04,120
+shirt,2021-09-05,180
+shirt,2021-09-29,33
+shirt,2021-10-07,143
+shirt,2021-10-08,34
+shirt,2021-11-09,120
+shirt,2021-11-10,12
+shirt,2021-12-11,180
+shirt,2021-12-12,90
+shirt,2022-01-12,150
+shirt,2022-01-13,40
+shirt,2022-02-22,31
+shirt,2022-02-23,100
+shirt,2022-03-02,70
+shirt,2022-03-20,50
+shirt,2022-04-26,46
+shirt,2022-04-28,87
+shirt,2022-05-21,90
+shirt,2022-05-21,100
+shirt,2022-06-30,65
+shirt,2022-06-12,45
+shirt,2022-07-19,89
+shirt,2022-07-23,66
+shirt,2022-08-10,90
+shirt,2022-08-14,120
+shirt,2022-09-15,181
+shirt,2022-09-15,33
+shirt,2022-10-07,120
+shirt,2022-10-08,34
+shirt,2022-11-01,100
+shirt,2022-11-11,100
+shirt,2022-12-11,130
+shirt,2022-12-12,190
+jeans,2021-01-20,150
+jeans,2021-01-30,45
+jeans,2021-02-12,30
+jeans,2021-02-23,56
+jeans,2021-03-24,78
+jeans,2021-03-15,123
+jeans,2021-04-26,46
+jeans,2021-04-27,87
+jeans,2021-05-28,90
+jeans,2021-05-20,67
+jeans,2021-06-30,65
+jeans,2021-06-30,23
+jeans,2021-07-01,87
+jeans,2021-07-02,66
+jeans,2021-08-09,90
+jeans,2021-08-04,123
+jeans,2021-09-01,180
+jeans,2021-09-06,33
+jeans,2021-10-07,67
+jeans,2021-10-08,234
+jeans,2021-11-09,88
+jeans,2021-11-10,120
+jeans,2021-12-18,190
+jeans,2021-12-12,120
+jeans,2022-01-11,150
+jeans,2022-01-13,22
+jeans,2022-02-22,31
+jeans,2022-02-23,100
+jeans,2022-03-16,70
+jeans,2022-03-20,150
+jeans,2022-04-26,46
+jeans,2022-04-28,87
+jeans,2022-05-20,78
+jeans,2022-05-20,100
+jeans,2022-06-30,65
+jeans,2022-06-12,45
+jeans,2022-07-11,89
+jeans,2022-07-12,66
+jeans,2022-08-10,200
+jeans,2022-08-14,120
+jeans,2022-09-05,181
+jeans,2022-09-16,130
+jeans,2022-10-07,67
+jeans,2022-10-08,60
+jeans,2022-11-18,101
+jeans,2022-11-11,12
+jeans,2022-12-11,200
+jeans,2022-12-12,20
+bath towel,2021-01-10,50
+bath towel,2021-01-21,40
+bath towel,2021-02-12,30
+bath towel,2021-02-28,56
+bath towel,2021-03-24,78
+bath towel,2021-03-25,23
+bath towel,2021-04-26,22
+bath towel,2021-04-27,87
+bath towel,2021-05-28,90
+bath towel,2021-05-13,100
+bath towel,2021-06-30,56
+bath towel,2021-06-30,45
+bath towel,2021-07-29,87
+bath towel,2021-07-02,89
+bath towel,2021-08-03,90
+bath towel,2021-08-08,123
+bath towel,2021-09-05,180
+bath towel,2021-09-06,56
+bath towel,2021-10-07,160
+bath towel,2021-10-18,34
+bath towel,2021-11-09,188
+bath towel,2021-11-10,12
+bath towel,2021-12-11,190
+bath towel,2021-12-12,90
+bath towel,2022-01-12,150
+bath towel,2022-01-03,40
+bath towel,2022-02-22,31
+bath towel,2022-02-23,100
+bath towel,2022-03-14,70
+bath towel,2022-03-20,50
+bath towel,2022-04-18,46
+bath towel,2022-04-28,90
+bath towel,2022-05-21,90
+bath towel,2022-05-20,100
+bath towel,2022-06-10,65
+bath towel,2022-06-12,50
+bath towel,2022-07-11,89
+bath towel,2022-07-02,60
+bath towel,2022-08-12,90
+bath towel,2022-08-14,150
+bath towel,2022-09-15,181
+bath towel,2022-09-16,120
+bath towel,2022-10-17,67
+bath towel,2022-10-08,100
+bath towel,2022-11-01,100
+bath towel,2022-11-16,80
+bath towel,2022-12-11,120
+bath towel,2022-12-12,190
+bed sheet,2021-01-30,150
+bed sheet,2021-01-21,45
+bed sheet,2021-02-12,40
+bed sheet,2021-02-23,56
+bed sheet,2021-03-14,47
+bed sheet,2021-03-05,23
+bed sheet,2021-04-26,89
+bed sheet,2021-04-27,87
+bed sheet,2021-05-28,90
+bed sheet,2021-05-19,67
+bed sheet,2021-06-30,65
+bed sheet,2021-06-30,166
+bed sheet,2021-07-01,87
+bed sheet,2021-07-12,66
+bed sheet,2021-08-03,90
+bed sheet,2021-08-04,123
+bed sheet,2021-09-04,180
+bed sheet,2021-09-06,33
+bed sheet,2021-10-07,80
+bed sheet,2021-10-28,234
+bed sheet,2021-11-09,88
+bed sheet,2021-11-10,199
+bed sheet,2021-12-11,60
+bed sheet,2021-12-12,200
+bed sheet,2022-01-12,150
+bed sheet,2022-01-13,22
+bed sheet,2022-02-22,31
+bed sheet,2022-02-23,100
+bed sheet,2022-03-06,70
+bed sheet,2022-03-20,150
+bed sheet,2022-04-26,46
+bed sheet,2022-04-08,87
+bed sheet,2022-05-21,67
+bed sheet,2022-05-27,100
+bed sheet,2022-06-30,65
+bed sheet,2022-06-12,89
+bed sheet,2022-07-11,89
+bed sheet,2022-07-02,90
+bed sheet,2022-08-11,200
+bed sheet,2022-08-14,120
+bed sheet,2022-09-15,181
+bed sheet,2022-09-16,120
+bed sheet,2022-10-07,167
+bed sheet,2022-10-08,56
+bed sheet,2022-11-13,101
+bed sheet,2022-11-11,68
+bed sheet,2022-12-11,80
+bed sheet,2022-12-22,189
+pillow,2021-01-04,110
+pillow,2021-01-21,45
+pillow,2021-02-12,243
+pillow,2021-02-13,56
+pillow,2021-03-24,78
+pillow,2021-03-25,123
+pillow,2021-04-26,46
+pillow,2021-04-17,87
+pillow,2021-05-28,90
+pillow,2021-05-29,67
+pillow,2021-06-08,80
+pillow,2021-06-30,23
+pillow,2021-07-03,87
+pillow,2021-07-02,66
+pillow,2021-08-13,87
+pillow,2021-08-04,123
+pillow,2021-09-05,160
+pillow,2021-09-16,33
+pillow,2021-10-07,67
+pillow,2021-10-08,234
+pillow,2021-11-09,88
+pillow,2021-11-18,45
+pillow,2021-12-11,190
+pillow,2021-12-18,120
+pillow,2022-01-12,150
+pillow,2022-01-10,40
+pillow,2022-02-12,38
+pillow,2022-02-23,100
+pillow,2022-03-14,70
+pillow,2022-03-20,150
+pillow,2022-04-06,83
+pillow,2022-04-28,87
+pillow,2022-05-21,50
+pillow,2022-05-20,100
+pillow,2022-06-20,65
+pillow,2022-06-12,45
+pillow,2022-07-11,89
+pillow,2022-07-02,66
+pillow,2022-08-17,200
+pillow,2022-08-14,120
+pillow,2022-09-15,181
+pillow,2022-09-16,130
+pillow,2022-10-17,120
+pillow,2022-10-08,68
+pillow,2022-11-22,101
+pillow,2022-11-11,69
+pillow,2022-12-11,180
+pillow,2022-12-08,120
+,,
